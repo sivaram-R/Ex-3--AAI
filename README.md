@@ -1,7 +1,7 @@
 <H3>NAME:SIVARAM R</H3>
 <H3>REGISTER NO.212222100050</H3>
 <H3>EX. NO.3</H3>
-<H3>DATE:6/9/24</H3>
+<H3>DATE:</H3>
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks
 </H1>
 
